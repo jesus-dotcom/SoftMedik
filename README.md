@@ -1,3 +1,3 @@
 # SoftMedik
 sistema hospitalario citas pacientes 
-php simple lineal
+php puro y  simple lineal
